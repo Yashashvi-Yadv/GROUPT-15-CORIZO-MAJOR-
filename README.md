@@ -14,6 +14,7 @@ In The directory
     app,js > main file where the all file connected or handle 
     views >> all pages with ejs extension like Home.ejs
     node mdoule 
+    .env have a port and mongoose connect url
     pakagelock.json 
     other stuff 
                  
